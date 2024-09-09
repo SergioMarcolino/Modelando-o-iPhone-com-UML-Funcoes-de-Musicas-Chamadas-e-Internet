@@ -34,9 +34,7 @@ Com base no vídeo de lançamento do iPhone de **2007**, especificamente entre o
 - Criar um **diagrama UML** que represente as funcionalidades descritas acima.
 - Implementar as classes e interfaces correspondentes em **Java** (opcional).
 
-### Exemplo de Diagrama UML
-
-Aqui está um exemplo de diagrama UML, que pode ser gerado com a sintaxe **Mermaid**:
+### Diagrama UML
 
 ```mermaid
 classDiagram
